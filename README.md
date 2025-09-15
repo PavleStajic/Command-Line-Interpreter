@@ -8,3 +8,4 @@ This project is a custom Command Line Interpreter (CLI) developed in C++. It all
 - Input/output redirection (`>` overwrites, `>>` appends, `<` reads input from file)
 - Piping between commands (`|`)
 - Written in C++ with modular and extendable architecture
+- Error handling for invalid commands and failed operations
